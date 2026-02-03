@@ -79,11 +79,11 @@ The focus of this work is on:
 
 ## Reference
 
--Wriggers, P. (2023). A locking-free virtual element formulation for Timoshenko beams. Computer Methods in Applied Mechanics and Engineering, Article 116234.
--Wriggers, P. (2022). On a virtual element formulation for trusses and beams. Archive of Applied Mechanics, 92, 1655–1678.
--Wriggers, P., Aldakheel, F., & Hudobivnik, B. (2024). Virtual Element Methods in Engineering Sciences Springer.
--Öchsner, A. (2021). Classical Beam Theories of Structural Mechanics Springer.
--von Scheven, M., Bischoff, M., & Ramm, E. (2024/2025). Computational Mechanics of Structures: Lecture Notes. Winter Term 2024/2025
+1. Wriggers, P. (2023). A locking-free virtual element formulation for Timoshenko beams. Computer Methods in Applied Mechanics and Engineering, Article 116234.
+2. Wriggers, P. (2022). On a virtual element formulation for trusses and beams. Archive of Applied Mechanics, 92, 1655–1678.
+3. Wriggers, P., Aldakheel, F., & Hudobivnik, B. (2024). Virtual Element Methods in Engineering Sciences Springer.
+4. Öchsner, A. (2021). Classical Beam Theories of Structural Mechanics Springer.
+5. von Scheven, M., Bischoff, M., & Ramm, E. (2024/2025). Computational Mechanics of Structures: Lecture Notes. Winter Term 2024/2025
 
 ---
 
