@@ -91,4 +91,3 @@ The focus of this work is on:
 ## License
 
 This project is intended for academic and research use.  
-Add a license file if you plan to distribute or reuse the code.
